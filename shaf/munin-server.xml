@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
-  <Date>2016-07-29</Date> 
+  <Date>2016-07-31</Date> 
   <Beta>False</Beta>
   <Category>Network:Management Tools:</Category>
   <Name>munin-server</Name>
@@ -90,7 +90,7 @@ INITIAL RELEASE
   </Data>
   <Version></Version>
   <WebUI>http://[IP]:[PORT:80]/</WebUI>
-  <Banner>http://i.imgur.com/Da3tiEM.png</Banner>
-  <Icon>http://i.imgur.com/Da3tiEM.png</Icon>
+  <Banner>https://raw.githubusercontent.com/shaf/unraid-docker-templates/master/shaf/images/munin-icon.png</Banner>
+  <Icon>https://raw.githubusercontent.com/shaf/unraid-docker-templates/master/shaf/images/munin-icon.png</Icon>
   <ExtraParams></ExtraParams>
 </Container>
